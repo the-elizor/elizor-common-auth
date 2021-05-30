@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.6.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "elizor.common.auth.identityserver", "elizor.common.auth.identityserver\elizor.common.auth.identityserver.csproj", "{F8FB1729-F27B-4193-A057-1F6BAA2AE70D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "elizor.common.auth.services", "elizor.common.auth.services\elizor.common.auth.services.csproj", "{06FB373C-8B94-45A3-B56D-D95AD1C5C833}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8FB1729-F27B-4193-A057-1F6BAA2AE70D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8FB1729-F27B-4193-A057-1F6BAA2AE70D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8FB1729-F27B-4193-A057-1F6BAA2AE70D}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{F8FB1729-F27B-4193-A057-1F6BAA2AE70D}.Debug|x64.Build.0 = Debug|Any CPU
+		{F8FB1729-F27B-4193-A057-1F6BAA2AE70D}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{F8FB1729-F27B-4193-A057-1F6BAA2AE70D}.Debug|x86.Build.0 = Debug|Any CPU
+		{F8FB1729-F27B-4193-A057-1F6BAA2AE70D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8FB1729-F27B-4193-A057-1F6BAA2AE70D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8FB1729-F27B-4193-A057-1F6BAA2AE70D}.Release|x64.ActiveCfg = Release|Any CPU
+		{F8FB1729-F27B-4193-A057-1F6BAA2AE70D}.Release|x64.Build.0 = Release|Any CPU
+		{F8FB1729-F27B-4193-A057-1F6BAA2AE70D}.Release|x86.ActiveCfg = Release|Any CPU
+		{F8FB1729-F27B-4193-A057-1F6BAA2AE70D}.Release|x86.Build.0 = Release|Any CPU
+		{06FB373C-8B94-45A3-B56D-D95AD1C5C833}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06FB373C-8B94-45A3-B56D-D95AD1C5C833}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06FB373C-8B94-45A3-B56D-D95AD1C5C833}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{06FB373C-8B94-45A3-B56D-D95AD1C5C833}.Debug|x64.Build.0 = Debug|Any CPU
+		{06FB373C-8B94-45A3-B56D-D95AD1C5C833}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{06FB373C-8B94-45A3-B56D-D95AD1C5C833}.Debug|x86.Build.0 = Debug|Any CPU
+		{06FB373C-8B94-45A3-B56D-D95AD1C5C833}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06FB373C-8B94-45A3-B56D-D95AD1C5C833}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06FB373C-8B94-45A3-B56D-D95AD1C5C833}.Release|x64.ActiveCfg = Release|Any CPU
+		{06FB373C-8B94-45A3-B56D-D95AD1C5C833}.Release|x64.Build.0 = Release|Any CPU
+		{06FB373C-8B94-45A3-B56D-D95AD1C5C833}.Release|x86.ActiveCfg = Release|Any CPU
+		{06FB373C-8B94-45A3-B56D-D95AD1C5C833}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4EA2B140-8E17-4CBB-A403-B8983C51F25C}
+	EndGlobalSection
+EndGlobal

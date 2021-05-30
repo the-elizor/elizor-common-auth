@@ -1,0 +1,30 @@
+﻿extensions: designer.cs generated.cs
+extensions: .cs .cpp .h .ts .js
+// <copyright file="%FileName%" company="Elizor (Pvt) Ltd">
+// Copyright (c) Elizor (Pvt) Ltd, %CreationYear% 
+//		All Rights Reserved.
+//		This unpublished material is proprietary to Elizor. The methods and techniques described herein are considered trade secrets (copyright) and/or confidential.
+//		Reproduction or distribution, in whole or in part, is strictly forbidden except by prior express written permission from Elizor.
+// </copyright>
+//-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+extensions:  .html
+<!--
+<copyright file="%FileName%" company="Elizor (Pvt) Ltd">
+	Copyright (c) Elizor (Pvt) Ltd, %CreationYear% 
+	All Rights Reserved.
+	This unpublished material is proprietary to Elizor. The methods and techniques described herein are considered trade secrets (copyright) and/or confidential.
+	Reproduction or distribution, in whole or in part, is strictly forbidden except by prior express written permission from Elizor.
+</copyright>
+-->
+
+extensions:  .css .scss
+/*
+<copyright file="%FileName%" company="Elizor (Pvt) Ltd">
+	Copyright (c) Elizor (Pvt) Ltd, %CreationYear% 
+	All Rights Reserved.
+	This unpublished material is proprietary to Elizor. The methods and techniques described herein are considered trade secrets (copyright) and/or confidential.
+	Reproduction or distribution, in whole or in part, is strictly forbidden except by prior express written permission from Elizor.
+</copyright>
+*/
+
